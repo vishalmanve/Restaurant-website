@@ -4,6 +4,8 @@ import Resturant from "./component/Basics/Resturant";
 // import UseEffect from "./component/Hooks/useEffect";
 // import UseReducer from "./component/Hooks/useReducer";
 
+// import UseReducer from "./component/Hooks/useReducer";
+
 const App = () => {
   return <Resturant />;
 };
